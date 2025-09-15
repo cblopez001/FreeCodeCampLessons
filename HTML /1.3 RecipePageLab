@@ -23,11 +23,11 @@ You should have one img element with a src attribute set to a valid image, you c
 <head>
   <meta charset="UTF-8">
   <lang="en">
-  <title> Cherakye's Blueberry Biscuits Recipe </title>
+  <title>  Recipe </title>
 </head>
 
 <body>
-  <h1>Blueberry Biscuits Recipe</h1>
+  <h1>General Recipe</h1>
    <p>INTRO FOR RECIPE</p>
     <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="substitute image for blueberry biscuits">
   <h2>Ingredients</h2>
